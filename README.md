@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 To setup CI/CD pipeline in heroku we need 3 information
 1. HEROKU_EMIAL =  sofana.benoutiq123@gmail.com
-2. HEROKU_API_KEY = 161308d4-9c29-4cf7-93a2-657b46e3e27e
+2. HEROKU_API_KEY = <>
 3. HEROKU_APP_NAME = ml-regression-app75
 
 
@@ -55,7 +55,7 @@ docker run -p 5000:5000 -e PORT=5000 4fbdab1faea3
 
  docker ps
  ```
- 
+
  To stop running container
  ```
 
